@@ -1,0 +1,56 @@
+.container{
+    background-image: url(img/bg.jpg);
+    background-size: 100% 100%;
+    font-size: 16px;
+    font-weight: bold;
+    color: azure;
+}
+
+.container h1{
+    font-size: xx-large;
+    text-decoration: underline;
+    text-transform: uppercase; 
+    word-spacing: 1em;
+    text-align: center;
+}
+.container button{
+    float: right;
+    font-size: large;
+}
+
+
+.box1 {
+    border-top:white solid ;
+    border-bottom: white solid;
+}
+.box1 img{
+  float: left;
+  width: 10vw;
+}
+
+.box2 {
+    border-top:white solid ;
+    border-bottom: white solid;
+}
+.box2 img{
+  float: left;
+  width: 10vw;
+}
+
+.box3 {
+    border-top:white solid ;
+    border-bottom:white solid ;
+}
+.box3 img{
+  float: left;
+  width: 10vw;
+}
+
+.box4 {
+    border-top:white solid ;
+    border-bottom: white solid;
+}
+.box4 img{
+  float: left;
+  width: 10vw;
+}
